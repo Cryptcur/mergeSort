@@ -1,0 +1,17 @@
+{
+  "name": "mergeSorting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mergesort.js",
+  "scripts": {
+    "test": "mocha mergesort.spec.js",
+    "test:dev": "npm run test -- --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
